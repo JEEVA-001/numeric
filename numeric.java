@@ -3,5 +3,6 @@ public class numeric {
      {
         int a=19;
           int b=20;
+          int c=13;
      }
 }
